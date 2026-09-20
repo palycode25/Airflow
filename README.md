@@ -47,6 +47,3 @@ get_weather_data
 - `weather_dag.py` : définition complète du DAG
 - `explications.md` : détail des choix d'implémentation
 
-## Auteur
-
-Réalisé dans le cadre de la formation Data Analyst / PMO.
