@@ -1,4 +1,4 @@
-# Airflow - Évaluation : Pipeline météo
+# Airflow : Pipeline météo
 
 ## Description
 
